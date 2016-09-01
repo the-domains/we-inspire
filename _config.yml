@@ -24,6 +24,9 @@ navigation:
   - name: paper
     id: 8a3feb8c-90dd-4852-928c-23185e20d7ae
     type: content
+  - name: capture
+    id: e64c9a97-f4c3-45a0-8a9f-0e237973b4d6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4013c1a1-0a1b-4459-bb84-f41237c244c7.png
 title: we-inspire collaboration solutions
