@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-30T14:09:57.598Z'
+datePublished: '2016-08-30T14:17:31.587Z'
 author: []
 via: {}
-dateModified: '2016-08-30T14:09:52.064Z'
+dateModified: '2016-08-30T14:17:30.585Z'
 title: we-inspire paper
 publisher: {}
 description: >-
@@ -13,11 +13,9 @@ description: >-
   paper and ink pen. So now you can work on a design concept with tools you’re
   already familiar with. It also means that anyone can pick up a pen and
   collaborate on the we-inspire system right away!
-starred: false
 sourcePath: _posts/2016-08-30-we-inspire-paper.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: we-inspire-paper/index.html
 _context: 'http://schema.org'
 _type: Article
