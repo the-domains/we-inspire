@@ -1,4 +1,3 @@
-layout_spectrum: 0.7657749818172306
 typography_spectrum: 0.9461745689623058
 color:
   brandStrength: 0.6015393168199807
@@ -11,4 +10,9 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.7657749818172306
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8530c457-2376-4098-893b-37b3ff802518.png
 name: we-inspire
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4013c1a1-0a1b-4459-bb84-f41237c244c7.png
