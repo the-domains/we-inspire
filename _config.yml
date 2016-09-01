@@ -14,6 +14,10 @@ layout_spectrum: 0.7657749818172306
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8530c457-2376-4098-893b-37b3ff802518.png
 name: we-inspire
+navigation:
+  - name: pinboard
+    id: c65dfa02-0e49-4743-b853-e588c03a567a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4013c1a1-0a1b-4459-bb84-f41237c244c7.png
 title: we-inspire collaboration solutions
