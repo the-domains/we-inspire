@@ -1,16 +1,16 @@
-typography_spectrum: 0.30196315003558993
+layout_spectrum: 0.6586456983350217
+typography_spectrum: 0.43922518007457256
 color:
-  brandStrength: 0.6015393168199807
-  lightness: 0.8819437050260603
-  saturation: 0.5932537028566003
-  rhythmicContrast: 0.4763050191104412
+  brandStrength: 0.39431685907766223
+  lightness: 0.39254189538769424
+  saturation: 0.4667269454803318
+  rhythmicContrast: 0.08006417588330805
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.7657749818172306
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8530c457-2376-4098-893b-37b3ff802518.png
 name: we-inspire
