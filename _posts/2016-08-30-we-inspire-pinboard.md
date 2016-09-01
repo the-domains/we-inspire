@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T13:57:35.914Z'
+datePublished: '2016-08-30T14:02:49.720Z'
 author:
   - name: we-inspire
     url: 'https://www.youtube.com/user/WeInspireEu'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T13:57:26.397Z'
+dateModified: '2016-08-30T14:02:49.004Z'
 title: we-inspire pinboard
 publisher: {}
 description: >-
@@ -15,11 +15,9 @@ description: >-
   Brainstorm has got you covered. The format of the application enables you to
   write out what you’re thinking in an organized and productive manner. Since
   multiple people can add to the board at once, no one’s input goes to waste. 
-starred: false
 sourcePath: _posts/2016-08-30-we-inspire-pinboard.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: we-inspire-pinboard/index.html
 _context: 'http://schema.org'
 _type: Article
