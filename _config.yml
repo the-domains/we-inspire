@@ -1,0 +1,14 @@
+layout_spectrum: 0.7657749818172306
+typography_spectrum: 0.9461745689623058
+color:
+  brandStrength: 0.6015393168199807
+  lightness: 0.8819437050260603
+  saturation: 0.5932537028566003
+  rhythmicContrast: 0.4763050191104412
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: we-inspire
