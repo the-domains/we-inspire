@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-30T13:59:26.984Z'
+datePublished: '2016-08-30T14:03:08.572Z'
 author: []
 via: {}
-dateModified: '2016-08-30T13:59:20.344Z'
+dateModified: '2016-08-30T14:03:07.625Z'
 title: we-inspire sketchboard
 publisher: {}
 description: >-
@@ -14,11 +14,9 @@ description: >-
   makes it easy to combine components to form a story. Plus the beautiful vector
   based ink is captured with subpixel accuracy, giving your work the quality
   they need (and deserve). 
-starred: false
 sourcePath: _posts/2016-08-30-we-inspire-sketchboard.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: we-inspire-sketchboard/index.html
 _context: 'http://schema.org'
 _type: Article
