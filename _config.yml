@@ -1,4 +1,3 @@
-layout_spectrum: 0.6586456983350217
 typography_spectrum: 0.43922518007457256
 color:
   brandStrength: 0.39431685907766223
@@ -11,6 +10,7 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.6586456983350217
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8530c457-2376-4098-893b-37b3ff802518.png
 name: we-inspire
@@ -20,6 +20,9 @@ navigation:
     type: content
   - name: sketchboard
     id: 638e02dc-d366-4c57-a554-b5a0619e06bc
+    type: content
+  - name: paper
+    id: 8a3feb8c-90dd-4852-928c-23185e20d7ae
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4013c1a1-0a1b-4459-bb84-f41237c244c7.png
