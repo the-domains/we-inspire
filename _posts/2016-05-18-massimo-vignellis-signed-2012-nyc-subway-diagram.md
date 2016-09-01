@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-30T12:20:52.859Z'
+datePublished: '2016-08-30T13:38:30.346Z'
 sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/design/massimo-vignelli-2012-nyc-subway-signed-poster
-hasPage: false
+hasPage: true
 keywords:
   - vignelli
   - superwarmred
@@ -18,7 +16,7 @@ keywords:
   - diagram
 related: []
 author: []
-dateModified: '2016-08-30T12:20:52.284Z'
+dateModified: '2016-08-30T13:38:29.632Z'
 title: Massimo Vignelli's Signed 2012 NYC Subway Diagram
 app_links: []
 publisher:
@@ -35,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: true
+url: massimo-vignellis-signed-2012-nyc-subway-diagram/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
