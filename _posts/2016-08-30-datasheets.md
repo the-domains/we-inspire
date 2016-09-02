@@ -1,15 +1,18 @@
 ---
-datePublished: '2016-08-30T14:36:29.772Z'
-inFeed: true
+datePublished: '2016-08-30T15:11:51.881Z'
 author: []
 via: {}
-dateModified: '2016-08-30T14:36:06.516Z'
+dateModified: '2016-08-30T15:11:50.680Z'
 title: Datasheets
+id: b8171e76-f0cc-439e-8684-605c0efc0bae
 publisher: {}
 description: 'Visual release notes:'
 starred: false
 sourcePath: _posts/2016-08-30-datasheets.md
-_type: Blurb
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Datasheets
@@ -17,4 +20,4 @@ _type: Blurb
 
 Visual release notes:
 
-<article style=""><img src="https://lh3.googleusercontent.com/zBmAI2seH4F0WSJwSv3LIWchteUn3ayLSQb4wbGyI7KgXCpHVJU9_g=w1200-h630-p" /><h1>Visual Release Notes.pdf</h1></article>
+<article style=""><h1>Visual Release Notes.pdf</h1></article>
